@@ -4,5 +4,6 @@ public class HelloVistula {
         int numba = 68524;
         String numba2 = String.valueOf(numba);
         System.out.println("Hello Vistula, this is " + numba2);
+        // Good luck out there
     }
 }
